@@ -1,0 +1,2 @@
+This text file is to keep notes if something has to be added/replaced/removed in the program (aka: alternative README.md) (Optional)
+Notes:
